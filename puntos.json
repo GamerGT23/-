@@ -1,0 +1,314 @@
+{
+  "points": {
+    "545790595180789781": 0,
+    "745056946163417138": 0,
+    "1057335341733920890": 0,
+    "618978721449377792": 0
+  },
+  "users": {
+    "545790595180789781": {
+      "username": "𝓔𝓵 𝓟𝓪𝓽𝓻𝓸𝓷"
+    },
+    "745056946163417138": {
+      "username": "YANYO"
+    },
+    "1057335341733920890": {
+      "username": "Menolss"
+    },
+    "618978721449377792": {
+      "username": "Alfa"
+    }
+  },
+  "activities": [
+    {
+      "id": "1791698943778-1558712108978274415",
+      "type": "Robo de negocio",
+      "time": "12:43",
+      "attachmentUrl": "https://cdn.discordapp.com/ephemeral-attachments/1558712108978274415/1558723084520005774/Atraco_al_auto_deportivo_en_Los_Santos.png?ex=6acc797f&is=6acb27ff&hm=f9e5c290a5a85464e1e26ef02e7c380a44d6c13f1797d177a5b8682b47963d79&",
+      "participants": [
+        {
+          "id": "545790595180789781",
+          "username": "𝓔𝓵 𝓟𝓪𝓽𝓻𝓸𝓷"
+        },
+        {
+          "id": "745056946163417138",
+          "username": "YANYO"
+        },
+        {
+          "id": "1057335341733920890",
+          "username": "Menolss"
+        }
+      ],
+      "createdAt": "2026-10-11T06:09:03.778Z"
+    },
+    {
+      "id": "1791699953601-1558712108978274415",
+      "type": "Misión de tráfico ilegal",
+      "time": "21:01",
+      "attachmentUrl": "https://cdn.discordapp.com/ephemeral-attachments/1558712108978274415/1558727318036414535/Atraco_al_auto_deportivo_en_Los_Santos.png?ex=6acc7d70&is=6acb2bf0&hm=7b22671c3b815fec7816b3700366a787c4fb1c1495e8914203cd0d0f86c8401b&",
+      "participants": [
+        {
+          "id": "745056946163417138",
+          "username": "YANYO"
+        },
+        {
+          "id": "545790595180789781",
+          "username": "𝓔𝓵 𝓟𝓪𝓽𝓻𝓸𝓷"
+        }
+      ],
+      "createdAt": "2026-10-11T06:25:53.601Z"
+    },
+    {
+      "id": "1791700041009-1558712108978274415",
+      "type": "Día de recompensa",
+      "time": "12:11",
+      "attachmentUrl": "https://cdn.discordapp.com/ephemeral-attachments/1558712108978274415/1558727685704781904/Pandilla_Make_Money_Boyz_en_Los_Santos.png?ex=6acc7dc8&is=6acb2c48&hm=40c6ec6d52571b82dfa672b2bc74cf57b9b7cd576da8890958a03e2a801f157b&",
+      "participants": [
+        {
+          "id": "618978721449377792",
+          "username": "Alfa"
+        }
+      ],
+      "createdAt": "2026-10-11T06:27:21.009Z"
+    },
+    {
+      "id": "1791701203481-1558712108978274415",
+      "type": "Lancha encallada",
+      "time": "12:21",
+      "attachmentUrl": "https://cdn.discordapp.com/ephemeral-attachments/1558712108978274415/1558732559666643034/Bajo_el_neon__Make_Money_Boyz.png?ex=6acc8252&is=6acb30d2&hm=8caca420950d8c3ee39def20d9dcd5dc27331187e87a3859d21fdb6adbace9ce&",
+      "participants": [
+        {
+          "id": "618978721449377792",
+          "username": "Alfa"
+        }
+      ],
+      "createdAt": "2026-10-11T06:46:43.481Z"
+    },
+    {
+      "id": "1791701302839-1558712108978274415",
+      "type": "Reparto aéreo",
+      "time": "11:11",
+      "attachmentUrl": "https://cdn.discordapp.com/ephemeral-attachments/1558712108978274415/1558732977092042762/Pandilla_Make_Money_Boyz_en_Los_Santos.png?ex=6acc82b5&is=6acb3135&hm=fe5d5719d18ae31cf1b226173b5335723eb47d5e971299ac4f8a6d16fdc29e77&",
+      "participants": [
+        {
+          "id": "545790595180789781",
+          "username": "𝓔𝓵 𝓟𝓪𝓽𝓻𝓸𝓷"
+        }
+      ],
+      "createdAt": "2026-10-11T06:48:22.839Z"
+    }
+  ],
+  "scoreboardMessageId": "1558725386869940237",
+  "auditLog": [
+    {
+      "type": "points_reset",
+      "timestamp": "2026-10-11T06:41:25.571Z",
+      "performedBy": {
+        "id": "545790595180789781",
+        "username": "𝓔𝓵 𝓟𝓪𝓽𝓻𝓸𝓷"
+      },
+      "channelId": "1558708951472808086",
+      "scores": [
+        {
+          "userId": "545790595180789781",
+          "username": "𝓔𝓵 𝓟𝓪𝓽𝓻𝓸𝓷",
+          "pointsBefore": 25,
+          "pointsAfter": 0
+        },
+        {
+          "userId": "745056946163417138",
+          "username": "YANYO",
+          "pointsBefore": 0,
+          "pointsAfter": 0
+        },
+        {
+          "userId": "1057335341733920890",
+          "username": "Menolss",
+          "pointsBefore": 0,
+          "pointsAfter": 0
+        },
+        {
+          "userId": "618978721449377792",
+          "username": "Alfa",
+          "pointsBefore": 0,
+          "pointsAfter": 0
+        }
+      ]
+    },
+    {
+      "type": "points_reset",
+      "timestamp": "2026-10-11T06:41:42.702Z",
+      "performedBy": {
+        "id": "545790595180789781",
+        "username": "𝓔𝓵 𝓟𝓪𝓽𝓻𝓸𝓷"
+      },
+      "channelId": "1558708951472808086",
+      "scores": [
+        {
+          "userId": "545790595180789781",
+          "username": "𝓔𝓵 𝓟𝓪𝓽𝓻𝓸𝓷",
+          "pointsBefore": 0,
+          "pointsAfter": 0
+        },
+        {
+          "userId": "745056946163417138",
+          "username": "YANYO",
+          "pointsBefore": 0,
+          "pointsAfter": 0
+        },
+        {
+          "userId": "1057335341733920890",
+          "username": "Menolss",
+          "pointsBefore": 0,
+          "pointsAfter": 0
+        },
+        {
+          "userId": "618978721449377792",
+          "username": "Alfa",
+          "pointsBefore": 0,
+          "pointsAfter": 0
+        }
+      ]
+    },
+    {
+      "type": "points_reset",
+      "timestamp": "2026-10-11T06:43:34.296Z",
+      "performedBy": {
+        "id": "545790595180789781",
+        "username": "𝓔𝓵 𝓟𝓪𝓽𝓻𝓸𝓷"
+      },
+      "channelId": "1558708951472808086",
+      "scores": [
+        {
+          "userId": "545790595180789781",
+          "username": "𝓔𝓵 𝓟𝓪𝓽𝓻𝓸𝓷",
+          "pointsBefore": 0,
+          "pointsAfter": 0
+        },
+        {
+          "userId": "745056946163417138",
+          "username": "YANYO",
+          "pointsBefore": 0,
+          "pointsAfter": 0
+        },
+        {
+          "userId": "1057335341733920890",
+          "username": "Menolss",
+          "pointsBefore": 0,
+          "pointsAfter": 0
+        },
+        {
+          "userId": "618978721449377792",
+          "username": "Alfa",
+          "pointsBefore": 0,
+          "pointsAfter": 0
+        }
+      ]
+    },
+    {
+      "type": "points_reset",
+      "timestamp": "2026-10-11T06:47:05.240Z",
+      "performedBy": {
+        "id": "545790595180789781",
+        "username": "𝓔𝓵 𝓟𝓪𝓽𝓻𝓸𝓷"
+      },
+      "channelId": "1558708951472808086",
+      "scores": [
+        {
+          "userId": "545790595180789781",
+          "username": "𝓔𝓵 𝓟𝓪𝓽𝓻𝓸𝓷",
+          "pointsBefore": 0,
+          "pointsAfter": 0
+        },
+        {
+          "userId": "745056946163417138",
+          "username": "YANYO",
+          "pointsBefore": 0,
+          "pointsAfter": 0
+        },
+        {
+          "userId": "1057335341733920890",
+          "username": "Menolss",
+          "pointsBefore": 0,
+          "pointsAfter": 0
+        },
+        {
+          "userId": "618978721449377792",
+          "username": "Alfa",
+          "pointsBefore": 1,
+          "pointsAfter": 0
+        }
+      ]
+    },
+    {
+      "type": "points_reset",
+      "timestamp": "2026-10-11T06:52:28.510Z",
+      "performedBy": {
+        "id": "545790595180789781",
+        "username": "𝓔𝓵 𝓟𝓪𝓽𝓻𝓸𝓷"
+      },
+      "channelId": "1558708951472808086",
+      "scores": [
+        {
+          "userId": "545790595180789781",
+          "username": "𝓔𝓵 𝓟𝓪𝓽𝓻𝓸𝓷",
+          "pointsBefore": 1,
+          "pointsAfter": 0
+        },
+        {
+          "userId": "745056946163417138",
+          "username": "YANYO",
+          "pointsBefore": 0,
+          "pointsAfter": 0
+        },
+        {
+          "userId": "1057335341733920890",
+          "username": "Menolss",
+          "pointsBefore": 0,
+          "pointsAfter": 0
+        },
+        {
+          "userId": "618978721449377792",
+          "username": "Alfa",
+          "pointsBefore": 0,
+          "pointsAfter": 0
+        }
+      ]
+    },
+    {
+      "type": "points_reset",
+      "timestamp": "2026-10-11T06:55:38.418Z",
+      "performedBy": {
+        "id": "545790595180789781",
+        "username": "𝓔𝓵 𝓟𝓪𝓽𝓻𝓸𝓷"
+      },
+      "channelId": "1558708951472808086",
+      "scores": [
+        {
+          "userId": "545790595180789781",
+          "username": "𝓔𝓵 𝓟𝓪𝓽𝓻𝓸𝓷",
+          "pointsBefore": 0,
+          "pointsAfter": 0
+        },
+        {
+          "userId": "745056946163417138",
+          "username": "YANYO",
+          "pointsBefore": 0,
+          "pointsAfter": 0
+        },
+        {
+          "userId": "1057335341733920890",
+          "username": "Menolss",
+          "pointsBefore": 0,
+          "pointsAfter": 0
+        },
+        {
+          "userId": "618978721449377792",
+          "username": "Alfa",
+          "pointsBefore": 0,
+          "pointsAfter": 0
+        }
+      ]
+    }
+  ]
+}
