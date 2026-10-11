@@ -725,7 +725,7 @@ const discordClient = new Client({
 
 
 
-discordClient.once('clientReady', async () => {...}
+discordClient.once('clientReady', async () => {...})
   console.log(`Make Money Boyz está en línea como ${discordClient.user.tag}`);
 
   try {
